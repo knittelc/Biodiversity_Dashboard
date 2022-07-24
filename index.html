@@ -10,18 +10,22 @@
 </head>
 
 <body>
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 jumbotron text-center">
-        <h1>Belly Button Biodiversity Dashboard</h1>
-        <h3>"The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'" -- Isaac Asimov</h3>
-
+  <!-- Jumbotron -->
+  <!-- Background image -->
+  <div class="p-5 text-center bg-image" style="
+    background-image: url(https://www.bellmuseum.umn.edu/wp-content/uploads/2019/08/petri-dish-hero.jpg);">
+    <div class="mask" style="background-color: rgba(231, 223, 223, 0.6);">
+      <div class="d-flex justify-content-center align-items-center h-100">
+        <div class="text-white">
+          <h1 class="text-white">Belly Button Biodiversity Dashboard</h1>
+          <h4 class="text-white">"The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'" -- Isaac Asimov</h4>
           <p>And so, we delve into the world of bellybutton bacteria in search of the perfect heme in which to flavor plant based proteins for a "real" meat taste.
-          This has led to the following data report.  Use the dashboard to see what types and how much of certain bacteria live in test persons' bellybuttons, for a new discovery in 'not'-meat flavoring.
-        </p>
+            This has led to the following data report.  Use the dashboard to see what types and how much of certain bacteria live in test persons' bellybuttons, for a new discovery in 'not'-meat flavoring.
+          </p>
+        </div>
       </div>
     </div>
+  </div>
     <div class="row">
       <div class="col-md-4">
         <div class="well">
@@ -29,7 +33,7 @@
           <!-- <select id="selDataset"></select> -->
           <select id="selDataset" onchange="optionChanged(this.value)"></select>
         </div>
-        <div class="panel panel-primary">
+        <div class="panel panel-success class">
           <div class="panel-heading">
             <h3 class="panel-title">Demographic Info</h3>
           </div>
