@@ -1,7 +1,5 @@
 # Belly Button Biodiversity Dashboard
 ---
-<!--![alt](resources/___.png)-->
-<a href="https://github.com/knittelc/Biodiversity_Dashboard"><img src="![orangepetri](https://user-images.githubusercontent.com/102183530/180651223-4ec822c1-78c7-4ec2-9548-3e9527989440.jpeg)
-" width = "500" height = "68" alt ="button: go to the dashboard"></a>
+![toppage](https://user-images.githubusercontent.com/102183530/180652124-139f46df-90ee-41b1-839f-450b0e6875c4.png)
 
-Use the button above to navigate to the live dashboard on github pages at: https://github.com/knittelc/Biodiversity_Dashboard
+![bottompage](https://user-images.githubusercontent.com/102183530/180652126-276f924b-a3c2-4af5-8cda-684dca7be43c.png)
